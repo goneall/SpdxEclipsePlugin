@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourceauditor/!svn/ver/1969/SPDXEclipsePlugin/trunk/test/org/spdx/spdxeclipse/properties
+END
+TestSpdxProjectProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/test/org/spdx/spdxeclipse/properties/TestSpdxProjectProperties.java
+END
+TestSpdxFileProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/test/org/spdx/spdxeclipse/properties/TestSpdxFileProperties.java
+END

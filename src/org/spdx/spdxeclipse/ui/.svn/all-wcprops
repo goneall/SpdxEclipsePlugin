@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourceauditor/!svn/ver/1973/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui
+END
+SpdxReviewerWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/SpdxReviewerWizardPage.java
+END
+CreateSpdxJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/CreateSpdxJob.java
+END
+LicensePicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/LicensePicker.java
+END
+CreateLicenseDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/CreateLicenseDialog.java
+END
+ProjectChooserDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/ProjectChooserDialog.java
+END
+StringSelectionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/StringSelectionGroup.java
+END
+SpdxProjectWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/SpdxProjectWizardPage.java
+END
+UIHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/UIHelper.java
+END
+CommandRemoveSpdx.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/CommandRemoveSpdx.java
+END
+ResourceTreeSelectionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/ResourceTreeSelectionGroup.java
+END
+IResourceTreeSelectionChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/IResourceTreeSelectionChangeListener.java
+END
+CreateSpdxProjectWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/CreateSpdxProjectWizard.java
+END
+CommandAddSpdxToProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/CommandAddSpdxToProject.java
+END
+IncludedExcludedFilesComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/IncludedExcludedFilesComposite.java
+END
+SpdxCreatorWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/SpdxCreatorWizardPage.java
+END
+IncludedFilesWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/IncludedFilesWizardPage.java
+END
+LicenseSelectionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/LicenseSelectionGroup.java
+END
+SpdxProjectLicenseWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/ui/SpdxProjectLicenseWizardPage.java
+END

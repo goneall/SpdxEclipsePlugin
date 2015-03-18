@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourceauditor/!svn/ver/1982/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/project
+END
+SpdxHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/project/SpdxHelper.java
+END
+SpdxProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/project/SpdxProject.java
+END
+SpdxProjectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/project/SpdxProjectException.java
+END
+SpdxProjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/project/SpdxProjectFactory.java
+END

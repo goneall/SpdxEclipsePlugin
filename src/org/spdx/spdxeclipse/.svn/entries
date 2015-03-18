@@ -1,0 +1,80 @@
+10
+
+dir
+1983
+http://development/svn/sourceauditor/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse
+http://development/svn/sourceauditor
+
+
+
+2014-08-06T04:54:31.514967Z
+1982
+gary
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+69a62722-ee38-0410-8b14-a8d1279ef860
+
+Activator.java
+file
+2019
+
+
+
+2015-03-18T04:50:51.749000Z
+ee89223ffadc9d5520f20a2ee4d0dcf2
+2015-03-18T04:58:57.410995Z
+2019
+gary
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2256
+
+builders
+dir
+
+nature
+dir
+
+preferences
+dir
+
+project
+dir
+
+properties
+dir
+
+ui
+dir
+

@@ -1,0 +1,8 @@
+- Follows the basic Eclipse plugin lifecycle with org.spdx.spdxeclipse.Activator as the activator
+- Main class is the SpdxProject - contains the SPDX information a project.  Manages the SPDX document for the project.
+- By default, an Eclipse project does not contain SPDX information
+- To enable SPDX information to be maintained for a project, the CommandAddSpdxToProject can be used
+- Resource properties are used to manage SPDX properties associated with the files and projects
+- If a given resource does not contain the SPDX property, the project preference or global spdx preferences are used
+- Note that the resource property is not always set if the default is used.  If the SpdxFileProperties or SpdxProjectProperties is used, the property will be initialized by the default when first accessed.
+- Currently, the SPDX document is kept current with the project through the use of property change listeners and builders 

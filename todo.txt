@@ -1,0 +1,16 @@
+Note: for unit tests, add plugin  org.eclipse.ui.ide.application
+- Add project properties for concluded license, etc.
+- Fix project properties not showing up in Packages view
+- Add optional fields
+-- File dependency
+- Add "Add SPDX" as a menu in the right click and Project menu
+- Create a content type for SPDX files
+- Add a content outliner for SPDX files and an Editor for SPDX files
+- Contribute a wizard for creating a new SPDX file
+- Allow for better expression of conjunctive/disjunctive licenses 
+- Add ability to include files in the SPDX but not in the verification code
+- Add a command to export an SPDX accurate archive
+- Figure out why plugin extension for builder and hasNature=true fails
+
+- Add export spdx file
+- Add support for changing the SPDX document URL (SPDX Project)

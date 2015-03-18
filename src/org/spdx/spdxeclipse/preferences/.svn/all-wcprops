@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourceauditor/!svn/ver/1970/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/preferences
+END
+SpdxProjectPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/preferences/SpdxProjectPreferences.java
+END
+CreatorFieldEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/preferences/CreatorFieldEditor.java
+END
+SpdxPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/preferences/SpdxPreferencePage.java
+END
+StringListFieldEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/preferences/StringListFieldEditor.java
+END
+PreferenceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/preferences/PreferenceInitializer.java
+END
+SpdxFilePreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/preferences/SpdxFilePreferencePage.java
+END
+LicenseFieldEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/preferences/LicenseFieldEditor.java
+END
+PreferenceConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/preferences/PreferenceConstants.java
+END

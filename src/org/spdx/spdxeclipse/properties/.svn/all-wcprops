@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourceauditor/!svn/ver/1970/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/properties
+END
+SpdxFileProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/properties/SpdxFileProperties.java
+END
+SpdxProjectPropertyPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/properties/SpdxProjectPropertyPage.java
+END
+SpdxProjectProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/properties/SpdxProjectProperties.java
+END
+PropertyConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/properties/PropertyConstants.java
+END
+SpdxProjectDefaultFilePropertyPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/properties/SpdxProjectDefaultFilePropertyPage.java
+END
+SpdxPropertyPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/properties/SpdxPropertyPage.java
+END
+InvalidExcludedFilePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/properties/InvalidExcludedFilePattern.java
+END
+SpdxFilePropertyPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sourceauditor/!svn/ver/2019/SPDXEclipsePlugin/trunk/src/org/spdx/spdxeclipse/properties/SpdxFilePropertyPage.java
+END
